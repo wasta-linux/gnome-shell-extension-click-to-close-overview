@@ -1,0 +1,5 @@
+gnome-shell-extension-click-to-close-overview (42) jammy; urgency=medium
+
+  * Fix build-blocking typo in debian/control.
+
+ -- Nate Marti <nate_marti@sil.org>  Mon, 13 Jun 2022 16:25:43 +0100
